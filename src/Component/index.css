@@ -1,0 +1,36 @@
+.font{
+    font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+.btn-container{
+    margin-left:3%;
+    margin-right:3%;
+    margin-bottom:3%;
+    margin-top:3%;
+}
+
+.date-container{
+    min-width: 150;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+}
+
+.radio-container{
+    margin-bottom:3%;
+    margin-top:3%;
+}
+
+.select-container{
+    min-width: 150;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+/* .text-container{
+   width: 350; 
+   font-size: 15px;
+   margin-left: 3%;
+   margin-right: 3%;
+   margin-top: 3%
+} */
